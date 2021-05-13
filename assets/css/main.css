@@ -3748,10 +3748,8 @@ input, select, textarea {
 		display: none;
 	}
 
-	@media screen and (max-width: 736px) {
-
-		/* Basic */
-
+	/*@media screen and (max-width: 736px) {
+		/* Basic 
 			html, body {
 				overflow-x: hidden;
 			}
@@ -3771,8 +3769,6 @@ input, select, textarea {
 			h4 {
 				font-size: 1em;
 			}
-
-		/* Section/Article */
 
 			header p br {
 				display: none;
@@ -3796,15 +3792,12 @@ input, select, textarea {
 				margin: 0 0 2em 0;
 			}
 
-		/* Goto Next */
-
 			.goto-next:before {
 				height: 0.8em;
 				margin: -0.4em 0 0 -0.6em;
 				width: 1.2em;
 			}
 
-		/* Spotlight */
 
 			.spotlight {
 				box-shadow: 0 0.125em 0.5em 0 rgba(0, 0, 0, 0.25);
@@ -3819,19 +3812,13 @@ input, select, textarea {
 					padding: 3.25em 1.5em 1.25em 1.5em !important;
 				}
 
-		/* Wrapper */
-
 			.wrapper {
 				padding: 3.25em 1.5em 1.25em 1.5em;
 			}
 
-		/* Header */
-
 			#header {
 				display: none;
 			}
-
-		/* Banner */
 
 			#banner {
 				box-shadow: 0 0.125em 0.5em 0 rgba(0, 0, 0, 0.25);
@@ -3854,8 +3841,6 @@ input, select, textarea {
 						height: 9em;
 						width: 9em;
 					}
-
-		/* Nav */
 
 			#page-wrapper {
 				-moz-backface-visibility: hidden;
@@ -4037,13 +4022,11 @@ input, select, textarea {
 				transform: translateX(0);
 			}
 
-		/* Footer */
-
 			#footer {
 				padding: 3.25em 1.5em;
 			}
 
-	}
+	} */
 
 /* XSmall */
 
