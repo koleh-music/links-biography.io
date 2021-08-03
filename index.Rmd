@@ -10,12 +10,13 @@ mainfont: Public Sans
 
 ```{css, echo=FALSE}
 h1 {color: green;}
-svg {
-    fill: grey;
+svg {fill: grey;}
+svg:hover {fill: green;}
+audio::-webkit-media-controls-panel {
+    background-color: Orange;
 }
-
-svg:hover {
-    fill: green;
+audio {
+    width: 100%;
 }
 ```
 
@@ -66,7 +67,18 @@ knitr::include_graphics("images/interplayApplication.jpeg")
 
 ## Music
 
-'Temengang':
+**Temengang**:
 
 `r embed_audio("audio/Temengang.mp3", attribute="controls")`
 
+```{r, echo=FALSE, fig.align='center', out.width='50%'}
+knitr::include_graphics("images/temengang.jpg")
+```
+
+**Maze**:
+
+`r embed_audio("audio/Maze.mp3", attribute="controls")`
+
+```{r, echo=FALSE, fig.align='center', out.width='50%'}
+knitr::include_graphics("images/maze_album_cover.png")
+```
