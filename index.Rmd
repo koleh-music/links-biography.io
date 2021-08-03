@@ -42,7 +42,7 @@ library(icons)
 
 ::: {}
 
-```{r img-with-knitr, echo=FALSE, fig.align='left', out.width='50%'}
+```{r img-with-knitr, echo=FALSE, fig.align='left', out.width='80%'}
 knitr::include_graphics("images/interplayApplication.jpeg")
 ```
 :::
@@ -51,8 +51,23 @@ knitr::include_graphics("images/interplayApplication.jpeg")
 
 ## Social Media
 
-[`r icon_style(fontawesome("facebook", style="brands"), scale=2, fill="grey")` Facebook](https://www.facebook.com/KOLEH-1455565198056097)
-[`r icon_style(fontawesome("instagram", style="brands"),scale=2,fill="grey")` Instagram](https://www.instagram.com/ukolehle/)
+[`r icon_style(fontawesome("facebook", style="brands"), scale=2)` Facebook](https://www.facebook.com/KOLEH-1455565198056097)
+`r icon_style(fontawesome("circle", style="solid"), scale=0.5)`
+`r icon_style(fontawesome("circle", style="regular"), scale=0.5)`
+`r icon_style(fontawesome("circle", style="solid"), scale=0.5)`
+[`r icon_style(fontawesome("instagram", style="brands"),scale=2)` Instagram](https://www.instagram.com/ukolehle/)
+
+
+---
 
 <!-- about.html">About</a></li> -->
 
+## Music
+
+'Temengang':
+
+<iframe src="https://bandcamp.com/EmbeddedPlayer/track=3309997253/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://koleh.bandcamp.com/track/temengang">Temengang by Koleh</a></iframe>
+
+Cover of "Heaven Knows I'm Miserable Now" by The Smiths
+
+<iframe id="ytplayer" type="text/html" src="https://www.youtube.com/embed/lQldC_f5WsM" frameborder="0" allow="accelerometer ; autoplay;"></iframe>
