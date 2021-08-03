@@ -1,0 +1,58 @@
+---
+title: "Koleh"
+output: 
+    html_document:
+        theme: darkly
+fig_width: 4 
+fig_height: 2 
+mainfont: Public Sans
+---
+
+```{css, echo=FALSE}
+h1 {color: green;}
+svg {
+    fill: grey;
+}
+
+svg:hover {
+    fill: green;
+}
+```
+
+```{r, echo=FALSE, message=FALSE}
+library(icons)
+```
+
+:::: {style="display: flex;"}
+::: {}
+[`r icon_style(fontawesome("youtube", style="brands"), scale=2)`](https://www.youtube.com/channel/UCBdQSepZY38qAxi3vdr5QYQ)
+
+[`r icon_style(fontawesome("spotify", style="brands"),scale=2)`](https://open.spotify.com/artist/5dqd1bEKHSnfzHkf2V3v0J)
+
+[`r icon_style(fontawesome("bandcamp", style="brands"),scale=2)`](https://koleh.bandcamp.com/)
+
+[`r icon_style(fontawesome("apple", style="brands"),scale=2)`](https://music.apple.com/us/artist/koleh/1236599226)
+
+
+:::
+::: {style="padding-right: 20px;"}
+\ 
+
+:::
+
+::: {}
+
+```{r img-with-knitr, echo=FALSE, fig.align='left', out.width='50%'}
+knitr::include_graphics("images/interplayApplication.jpeg")
+```
+:::
+
+::::
+
+## Social Media
+
+[`r icon_style(fontawesome("facebook", style="brands"), scale=2, fill="grey")` Facebook](https://www.facebook.com/KOLEH-1455565198056097)
+[`r icon_style(fontawesome("instagram", style="brands"),scale=2,fill="grey")` Instagram](https://www.instagram.com/ukolehle/)
+
+<!-- about.html">About</a></li> -->
+
