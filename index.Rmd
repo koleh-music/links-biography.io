@@ -21,6 +21,7 @@ svg:hover {
 
 ```{r, echo=FALSE, message=FALSE}
 library(icons)
+library(embedr)
 library("vembedr")
 ```
 
@@ -67,11 +68,5 @@ knitr::include_graphics("images/interplayApplication.jpeg")
 
 'Temengang':
 
-<iframe src="https://bandcamp.com/EmbeddedPlayer/track=3309997253/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://koleh.bandcamp.com/track/temengang">Temengang by Koleh</a></iframe>
+`r embed_audio("audio/Temengang.mp3", attribute="controls")`
 
-Cover of "Heaven Knows I'm Miserable Now" by The Smiths
-
-```{r, echo=FALSE}
-embed_youtube("uV4UpCq2azs") %>%
-    use_bs_responsive()
-```
