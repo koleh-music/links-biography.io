@@ -21,6 +21,7 @@ svg:hover {
 
 ```{r, echo=FALSE, message=FALSE}
 library(icons)
+library("vembedr")
 ```
 
 :::: {style="display: flex;"}
@@ -70,4 +71,7 @@ knitr::include_graphics("images/interplayApplication.jpeg")
 
 Cover of "Heaven Knows I'm Miserable Now" by The Smiths
 
-<iframe id="ytplayer" type="text/html" src="https://www.youtube.com/embed/lQldC_f5WsM" frameborder="0" allow="accelerometer ; autoplay;"></iframe>
+```{r, echo=FALSE}
+embed_youtube("uV4UpCq2azs") %>%
+    use_bs_responsive()
+```
