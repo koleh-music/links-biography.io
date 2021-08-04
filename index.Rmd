@@ -13,7 +13,7 @@ h1 {color: green;}
 svg {fill: grey;}
 svg:hover {fill: green;}
 audio::-webkit-media-controls-panel {
-    background-color: Orange;
+    background-color: #e5dc29;
 }
 audio {
     width: 100%;
