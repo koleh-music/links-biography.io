@@ -64,4 +64,6 @@ knitr::include_graphics("images/interplayApplication.jpeg")
 ```{r, child=c('music.Rmd', 'about.Rmd')}
 ```
 
-## [Exclusive Content!](https://koleh-music.github.io/links-biography.io/exclusive-content.html)
+# {-}
+
+## [Exclusive Content - here!](https://koleh-music.github.io/links-biography.io/exclusiveContent.html)
