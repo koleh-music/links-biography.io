@@ -26,6 +26,8 @@ library(embedr)
 library("vembedr")
 ```
 
+# {.tabset .tabset-fade}
+
 :::: {style="display: flex;"}
 ::: {}
 [`r icon_style(fontawesome("youtube", style="brands"), scale=2)`](https://www.youtube.com/channel/UCBdQSepZY38qAxi3vdr5QYQ)
@@ -35,7 +37,6 @@ library("vembedr")
 [`r icon_style(fontawesome("bandcamp", style="brands"),scale=2)`](https://koleh.bandcamp.com/)
 
 [`r icon_style(fontawesome("apple", style="brands"),scale=2)`](https://music.apple.com/us/artist/koleh/1236599226)
-
 
 :::
 ::: {style="padding-right: 20px;"}
@@ -52,22 +53,19 @@ knitr::include_graphics("images/interplayApplication.jpeg")
 
 ::::
 
-## Social Media
-
-[`r icon_style(fontawesome("facebook", style="brands"), scale=2)` Facebook](https://www.facebook.com/KOLEH-1455565198056097)
+**Social Media:** [`r icon_style(fontawesome("facebook", style="brands"), scale=2)` Facebook](https://www.facebook.com/KOLEH-1455565198056097)
 `r icon_style(fontawesome("circle", style="solid"), scale=0.5)`
 `r icon_style(fontawesome("circle", style="regular"), scale=0.5)`
 `r icon_style(fontawesome("circle", style="solid"), scale=0.5)`
 [`r icon_style(fontawesome("instagram", style="brands"),scale=2)` Instagram](https://www.instagram.com/ukolehle/)
 
-
 ---
-
-<!-- about.html">About</a></li> -->
 
 ## Music
 
 **Temengang**:
+
+*This song explores issues of environmental degradation from the perspective of the 'Temengang', which is Kenyah for [Forest Rhinoceros Hornbill birds](https://en.wikipedia.org/wiki/Rhinoceros_hornbill)*
 
 `r embed_audio("audio/Temengang.mp3", attribute="controls")`
 
@@ -82,3 +80,8 @@ knitr::include_graphics("images/temengang.jpg")
 ```{r, echo=FALSE, fig.align='center', out.width='50%'}
 knitr::include_graphics("images/maze_album_cover.png")
 ```
+
+```{r, child=c('about.Rmd', 'exclusiveContent.Rmd')}
+```
+
+# {-}

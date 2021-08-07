@@ -1,0 +1,36 @@
+---
+title: "Koleh"
+output: 
+    html_document:
+        theme: darkly
+fig_width: 4 
+fig_height: 2 
+mainfont: Public Sans
+---
+
+## Exclusive content!
+
+Hello! Thanks for checking out my website `r icon_style(fontawesome("heart", style="solid"), scale=2)` As a reward, here are some demos of new songs and exclusive versions of my songs!
+
+
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("images/0012_11.jpg")
+```
+
+#### Demos
+
+Treat these as rolling releases. One of these days I'll take them into a studio and make them sound really nice.
+
+##### Mande *4-1*
+
+`r embed_audio("audio/Mande.mp3", attribute="controls")`
+
+##### Pioneers *3*
+
+`r embed_audio("audio/Pioneers.mp3", attribute="controls")`
+
+##### Low Man *2-2*
+
+`r embed_audio("audio/LowMan.mp3", attribute="controls")`
+
+#### Song Versions
