@@ -1,13 +1,3 @@
----
-title: "Koleh"
-output: 
-    html_document:
-        theme: darkly
-fig_width: 4 
-fig_height: 2 
-mainfont: Public Sans
----
-
 ## Music
 
 **Temengang**:
@@ -27,3 +17,8 @@ knitr::include_graphics("images/temengang.jpg")
 ```{r, echo=FALSE, fig.align='center', out.width='50%'}
 knitr::include_graphics("images/maze_album_cover.png")
 ```
+
+```{r, child=c('about.Rmd', 'exclusiveContent.Rmd')}
+```
+
+# {-}

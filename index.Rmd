@@ -26,7 +26,7 @@ library(embedr)
 library("vembedr")
 ```
 
-# {.tabset .tabset-fade}
+# {.tabset .tabset-pill}
 
 :::: {style="display: flex;"}
 ::: {}
@@ -61,5 +61,7 @@ knitr::include_graphics("images/interplayApplication.jpeg")
 
 ---
 
-```{r, child=c('music.Rmd', 'about.Rmd', 'exclusiveContent.Rmd')}
+```{r, child=c('music.Rmd', 'about.Rmd')}
 ```
+
+## [Exclusive Content!](https://koleh-music.github.io/links-biography.io/exclusive-content.html)
