@@ -1,0 +1,45 @@
+---
+title: "Koleh"
+output: 
+    html_document:
+        theme: darkly
+fig_width: 4 
+fig_height: 2 
+mainfont: Public Sans
+---
+
+## About
+
+Blending sounds from Southeast Asia and contemporary indie-pop, Koleh creates a unique dreamy sound in his music
+
+```{r, echo=FALSE, fig.align='center'}
+knitr::include_graphics("images/forest-1.jpeg")
+```
+
+**Dave Ruby Howe (Triple J) **-- *I'm keen on this one. Really exciting to hear some fresh sounds and bask in the overall imaginative spirit you've conjured here Koleh*.
+
+#### Kenyah Dayak Heritage
+
+A large amount of Koleh's sound is owed to his [Kenyah](https://en.wikipedia.org/wiki/Kenyah_people) Dayak heritage, and the [Sampe](http://en.wikipedia.org/wiki/Sapeh), a lute instrument played by the [Dayak](https://en.wikipedia.org/wiki/Dayak_people) people of Borneo.
+Living in Australia, Koleh's music provides a way for him to stay connected to Kenyah culture, as well as a vehicle for personal expression.
+
+Koleh's mum, Jinap Ato, strung together traditional bead artwork for both his singles; **Temengang** and **Maze**.
+
+:::: {style="display: flex;"}
+::: {}
+
+```{r, echo=FALSE, fig.align='center', out.width='100%'}
+knitr::include_graphics("images/temengang.jpg")
+```
+
+:::
+
+::: {}
+
+```{r, echo=FALSE, fig.align='center', out.width='100%'}
+knitr::include_graphics("images/maze_album_cover.png")
+```
+
+:::
+
+::::
