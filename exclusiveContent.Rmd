@@ -30,28 +30,34 @@ library("vembedr")
 
 [`r icon_style(fontawesome("home", style="solid"), scale=2)`](https://koleh-music.github.io/links-biography.io/index.html)
 
-Hello! Thanks for checking out my website `r icon_style(fontawesome("heart", style="solid"), scale=2)` Here are some demos of new songs and exclusive versions of my songs!
+Hello! Thanks for checking out my website `r icon_style(fontawesome("heart", style="solid"), scale=2)` Here are some demos of new songs + jams and exclusive versions of released songs!
 
 ```{r, echo=FALSE, fig.align='center'}
 knitr::include_graphics("images/0012_11.jpg")
 ```
 
-## Demos
+## New Demos
 
 Treat these as rolling releases. One of these days I'll take them into a studio and make them sound really nice.
 
-##### Mande *4-1*
+#### Mande *4-2*
 
 `r embed_audio("audio/Mande.mp3", attribute="controls")`
 
-##### Pioneers *3*
+#### Pioneers *3*
 
 `r embed_audio("audio/Pioneers.mp3", attribute="controls")`
 
-##### Low Man *2-2*
+#### Low Man *2-2*
 
 `r embed_audio("audio/LowMan.mp3", attribute="controls")`
 
 ## Song Versions
 
-*Coming soon*
+#### Maze *demo 3-4*
+
+`r embed_audio("audio/Maze_demo.mp3", attribute="controls")`
+
+#### Temengang *demo 5-1*
+
+`r embed_audio("audio/Temengang_demo.mp3", attribute="controls")`

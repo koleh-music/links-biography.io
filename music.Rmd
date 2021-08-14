@@ -2,7 +2,7 @@
 
 **Temengang**:
 
-*This song explores issues of environmental degradation from the perspective of the 'Temengang', which is Kenyah for [Forest Rhinoceros Hornbill birds](https://en.wikipedia.org/wiki/Rhinoceros_hornbill)*
+*'Temengang' is Kenyah for [Forest Rhinoceros Hornbill birds](https://en.wikipedia.org/wiki/Rhinoceros_hornbill)*
 
 `r embed_audio("audio/Temengang.mp3", attribute="controls")`
 
