@@ -1,0 +1,33 @@
+---
+title: "Koleh"
+output: 
+    html_document:
+        theme: darkly
+fig_width: 4 
+fig_height: 2 
+mainfont: Public Sans
+---
+
+## Upcoming Shows
+
+### OzAsia Festival
+
+Lucky Dumpling Market
+`r icon_style(fontawesome("circle", style="solid"), scale=0.5)` 5 November Friday
+`r icon_style(fontawesome("circle", style="solid"), scale=0.5)` [More info here](https://www.ozasiafestival.com.au/events/lb-koleh-elizabeth-ruyi/)
+
+```{r echo=FALSE, fig.align='left', out.width='60%'}
+knitr::include_graphics("images/ozasia21-koleh-ruyi-2000x640.jpg")
+```
+
+### Interplay Performance Series
+
+Nexus Arts Theatre
+`r icon_style(fontawesome("circle", style="solid"), scale=0.5)` 3 December Friday
+`r icon_style(fontawesome("circle", style="solid"), scale=0.5)` [More info here](http://nexusarts.org.au/event/interplay-noriko-tadano-koleh/)
+
+```{r echo=FALSE, fig.align='left'}
+knitr::include_graphics("images/NA_INTERPLAY_FB_BANNER-scaled.jpg")
+```
+
+---

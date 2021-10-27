@@ -14,6 +14,8 @@ knitr::include_graphics("images/temengang.jpg")
 
 `r embed_audio("audio/Maze.mp3", attribute="controls")`
 
+'Maze' is the second single off of Koleh's 'Songs From Upriver' EP.
+
 ```{r, echo=FALSE, fig.align='center', out.width='50%'}
 knitr::include_graphics("images/maze_album_cover.png")
 ```

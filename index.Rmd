@@ -61,7 +61,7 @@ knitr::include_graphics("images/interplayApplication.jpeg")
 
 ---
 
-```{r, child=c('music.Rmd', 'about.Rmd')}
+```{r, child=c('upcomingShows.Rmd', 'music.Rmd', 'about.Rmd')}
 ```
 
 # {-}
