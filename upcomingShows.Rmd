@@ -17,7 +17,7 @@ Lucky Dumpling Market
 
 [More info here](https://www.ozasiafestival.com.au/events/lb-koleh-elizabeth-ruyi/)
 
-```{r echo=FALSE, fig.align='left', out.width='60%'}
+```{r echo=FALSE, fig.align='left'}
 knitr::include_graphics("images/ozasia21-koleh-ruyi-2000x640.jpg")
 ```
 
@@ -28,7 +28,7 @@ The Grace Emily
 
 [More info here](https://www.eventbrite.com.au/e/naomi-keyte-at-the-grace-emily-tickets-189431453577)
 
-```{r echo=FALSE, fig.align='left'}
+```{r echo=FALSE, fig.align='left', out.width='160%'}
 knitr::include_graphics("images/Naomi.jpeg")
 ```
 
