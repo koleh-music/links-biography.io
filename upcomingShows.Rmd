@@ -14,17 +14,30 @@ mainfont: Public Sans
 
 Lucky Dumpling Market
 `r icon_style(fontawesome("circle", style="solid"), scale=0.5)` 5 November Friday
-`r icon_style(fontawesome("circle", style="solid"), scale=0.5)` [More info here](https://www.ozasiafestival.com.au/events/lb-koleh-elizabeth-ruyi/)
+
+[More info here](https://www.ozasiafestival.com.au/events/lb-koleh-elizabeth-ruyi/)
 
 ```{r echo=FALSE, fig.align='left', out.width='60%'}
 knitr::include_graphics("images/ozasia21-koleh-ruyi-2000x640.jpg")
+```
+
+### Naomi Keyte
+
+The Grace Emily
+`r icon_style(fontawesome("circle", style="solid"), scale=0.5)` 20 November Saturday
+
+[More info here](https://www.eventbrite.com.au/e/naomi-keyte-at-the-grace-emily-tickets-189431453577)
+
+```{r echo=FALSE, fig.align='left'}
+knitr::include_graphics("images/Naomi.jpeg")
 ```
 
 ### Interplay Performance Series
 
 Nexus Arts Theatre
 `r icon_style(fontawesome("circle", style="solid"), scale=0.5)` 3 December Friday
-`r icon_style(fontawesome("circle", style="solid"), scale=0.5)` [More info here](http://nexusarts.org.au/event/interplay-noriko-tadano-koleh/)
+
+[More info here](http://nexusarts.org.au/event/interplay-noriko-tadano-koleh/)
 
 ```{r echo=FALSE, fig.align='left'}
 knitr::include_graphics("images/NA_INTERPLAY_FB_BANNER-scaled.jpg")
