@@ -10,17 +10,6 @@ mainfont: Public Sans
 
 ## Upcoming Shows
 
-### OzAsia Festival
-
-Lucky Dumpling Market
-`r icon_style(fontawesome("circle", style="solid"), scale=0.5)` 5 November Friday
-
-[More info here](https://www.ozasiafestival.com.au/events/lb-koleh-elizabeth-ruyi/)
-
-```{r echo=FALSE, fig.align='left'}
-knitr::include_graphics("images/ozasia21-koleh-ruyi-2000x640.jpg")
-```
-
 ### Naomi Keyte
 
 The Grace Emily
