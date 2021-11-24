@@ -10,17 +10,6 @@ mainfont: Public Sans
 
 ## Upcoming Shows
 
-### Naomi Keyte
-
-The Grace Emily
-`r icon_style(fontawesome("circle", style="solid"), scale=0.5)` 20 November Saturday
-
-[More info here](https://www.eventbrite.com.au/e/naomi-keyte-at-the-grace-emily-tickets-189431453577)
-
-```{r echo=FALSE, fig.align='left', out.width='160%'}
-knitr::include_graphics("images/Naomi.jpeg")
-```
-
 ### Interplay Performance Series
 
 Nexus Arts Theatre
