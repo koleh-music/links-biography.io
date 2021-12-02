@@ -61,7 +61,9 @@ knitr::include_graphics("images/Jack_Fenby_000003.jpg")
 
 ---
 
-```{r, child=c('upcomingShows.Rmd', 'music.Rmd', 'about.Rmd')}
+REPLACE THIS ON THE KOLEH SITE WITH MAZE VIMEO VID
+
+```{r, child=c('music.Rmd', 'upcomingShows.Rmd', 'about.Rmd')}
 ```
 
 # {-}

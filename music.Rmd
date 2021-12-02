@@ -1,21 +1,13 @@
 ## Music
 
+**Maze**:
+
+'Maze' is the second single off of Koleh's 'Songs From Upriver' EP.
+
+REPLACE THIS MAZE ON THE KOLEH SITE WITH BANDCAMP EMBED
+
 **Temengang**:
 
 *'Temengang' is Kenyah for [Forest Rhinoceros Hornbill birds](https://en.wikipedia.org/wiki/Rhinoceros_hornbill)*
 
-`r embed_audio("audio/Temengang.mp3", attribute="controls")`
-
-```{r, echo=FALSE, fig.align='center', out.width='50%'}
-knitr::include_graphics("images/temengang.jpg")
-```
-
-**Maze**:
-
-`r embed_audio("audio/Maze.mp3", attribute="controls")`
-
-'Maze' is the second single off of Koleh's 'Songs From Upriver' EP.
-
-```{r, echo=FALSE, fig.align='center', out.width='50%'}
-knitr::include_graphics("images/maze_album_cover.png")
-```
+REPLACE THIS TEMENGANG ON THE KOLEH SITE WITH BANDCAMP EMBED
