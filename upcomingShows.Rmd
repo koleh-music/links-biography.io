@@ -10,15 +10,8 @@ mainfont: Public Sans
 
 ## Upcoming Shows
 
-### Interplay Performance Series
+### Ancient World - Jan 14
 
-Nexus Arts Theatre
-`r icon_style(fontawesome("circle", style="solid"), scale=0.5)` 3 December Friday
-
-[More info here](http://nexusarts.org.au/event/interplay-noriko-tadano-koleh/)
-
-```{r echo=FALSE, fig.align='left'}
-knitr::include_graphics("images/NA_INTERPLAY_FB_BANNER-scaled.jpg")
-```
+More info on this show coming soon.
 
 ---
