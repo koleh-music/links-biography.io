@@ -63,6 +63,8 @@ knitr::include_graphics("images/Jack_Fenby_000003.jpg")
 
 REPLACE THIS ON THE KOLEH SITE WITH MAZE VIMEO VID
 
+REPLACE THIS ON THE KOLEH SITE WITH MAZE BAND YOUTUBE VID
+
 ```{r, child=c('music.Rmd', 'upcomingShows.Rmd', 'about.Rmd')}
 ```
 
