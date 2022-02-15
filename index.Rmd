@@ -23,7 +23,6 @@ audio {
 ```{r, echo=FALSE, message=FALSE}
 library(icons)
 library(embedr)
-library("vembedr")
 ```
 
 # {.tabset .tabset-pill}
@@ -57,7 +56,7 @@ knitr::include_graphics("images/Jack_Fenby_000003.jpg")
 `r icon_style(fontawesome("circle", style="solid"), scale=0.5)`
 `r icon_style(fontawesome("circle", style="regular"), scale=0.5)`
 `r icon_style(fontawesome("circle", style="solid"), scale=0.5)`
-[`r icon_style(fontawesome("instagram", style="brands"),scale=2)` Instagram](https://www.instagram.com/ukolehle/)
+[`r icon_style(fontawesome("instagram", style="brands"),scale=2)` Instagram](https://www.instagram.com/koleh___/)
 
 ---
 
