@@ -1,0 +1,15 @@
+{{ define "main" }}
+	<main>
+		<p class="my-0">{{ .Site.Author.slogon }}</p>
+        <div style="text-align: center;">
+            <a href="https://open.spotify.com/artist/5dqd1bEKHSnfzHkf2V3v0J">{{ "static/spotify-brands.svg"  | readFile | safeHTML }}</a>
+            <a href="https://www.youtube.com/channel/UCBdQSepZY38qAxi3vdr5QYQ">{{ "static/youtube-brands.svg"  | readFile | safeHTML }}</a>
+            <a href="https://koleh.bandcamp.com">{{ "static/bandcamp-brands.svg"  | readFile | safeHTML }}</a>
+            <a href="https://music.apple.com/us/artist/koleh/1236599226">{{ "static/apple-brands.svg"  | readFile | safeHTML }}</a>
+            <a href="https://www.instagram.com/koleh___/">{{ "static/instagram-brands.svg"  | readFile | safeHTML }}</a>
+            <a href="https://www.facebook.com/KOLEH-1455565198056097">{{ "static/facebook-brands.svg"  | readFile | safeHTML }}</a>
+        </div>
+        <p class="my-3 home-intro">{{ .Site.Author.description | markdownify | safeHTML }}</p>
+        {{ with .Site.GetPage "/frontPage.md" }}{{ .Content }}{{ end }}
+    </main></a>
+{{ end }}

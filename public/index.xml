@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Koleh</title>
+    <link>http://h.xjj.pub/</link>
+    <description>Recent content on Koleh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© XJJ 2022</copyright>
+    <lastBuildDate>Fri, 15 Apr 2022 17:09:56 +0930</lastBuildDate><atom:link href="http://h.xjj.pub/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://h.xjj.pub/posts/my-first-post/</link>
+      <pubDate>Fri, 15 Apr 2022 17:09:56 +0930</pubDate>
+      
+      <guid>http://h.xjj.pub/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://h.xjj.pub/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://h.xjj.pub/about/about/</guid>
+      <description>Blending sounds from Southeast Asia and contemporary indie-pop, Koleh creates a unique dreamy sound in his music.
+ Dave Ruby Howe (Triple J):
+&amp;ldquo;I&amp;rsquo;m keen on this one. Really exciting to hear some fresh sounds and bask in the overall imaginative spirit you&amp;rsquo;ve conjured here Koleh.&amp;rdquo;
+Kenyah Dayak Heritage A large amount of Koleh&amp;rsquo;s sound is owed to his Kenyah Dayak heritage, and the Sampe, a lute instrument played by the Dayak people of Borneo.</description>
+    </item>
+    
+    <item>
+      <title>Bootleg</title>
+      <link>http://h.xjj.pub/bootleg/bootleg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://h.xjj.pub/bootleg/bootleg/</guid>
+      <description>Here you will find:
+ Demos of unreleased songs Jams Exclusive versions of released songs!  Demos Pioneers 3-3   Mande 4-2   </description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://h.xjj.pub/music/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://h.xjj.pub/music/music/</guid>
+      <description>Maze:
+&amp;lsquo;Maze&amp;rsquo; is the second single off of Koleh&amp;rsquo;s &amp;lsquo;Songs From Upriver&amp;rsquo; EP.
+Maze by Koleh  Temengang:
+&amp;lsquo;Temengang&amp;rsquo; is Kenyah for Forest Rhinoceros Hornbill birds
+Temengang by Koleh  </description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>http://h.xjj.pub/frontpage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://h.xjj.pub/frontpage/</guid>
+      <description>      </description>
+    </item>
+    
+    <item>
+      <title>Upcoming Shows</title>
+      <link>http://h.xjj.pub/upcoming-shows/upcoming-shows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://h.xjj.pub/upcoming-shows/upcoming-shows/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

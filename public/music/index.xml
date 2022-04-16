@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on Koleh</title>
+    <link>http://h.xjj.pub/music/</link>
+    <description>Recent content in Music on Koleh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© XJJ 2022</copyright><atom:link href="http://h.xjj.pub/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music</title>
+      <link>http://h.xjj.pub/music/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://h.xjj.pub/music/music/</guid>
+      <description>Maze:
+&amp;lsquo;Maze&amp;rsquo; is the second single off of Koleh&amp;rsquo;s &amp;lsquo;Songs From Upriver&amp;rsquo; EP.
+Maze by Koleh  Temengang:
+&amp;lsquo;Temengang&amp;rsquo; is Kenyah for Forest Rhinoceros Hornbill birds
+Temengang by Koleh  </description>
+    </item>
+    
+  </channel>
+</rss>
