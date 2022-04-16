@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Koleh</title>
-    <link>http://h.xjj.pub/posts/</link>
+    <link>https://koleh-music.github.io/links-biography.io/posts/</link>
     <description>Recent content in Posts on Koleh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© XJJ 2022</copyright>
-    <lastBuildDate>Fri, 15 Apr 2022 17:09:56 +0930</lastBuildDate><atom:link href="http://h.xjj.pub/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Apr 2022 17:09:56 +0930</lastBuildDate><atom:link href="https://koleh-music.github.io/links-biography.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://h.xjj.pub/posts/my-first-post/</link>
+      <link>https://koleh-music.github.io/links-biography.io/posts/my-first-post/</link>
       <pubDate>Fri, 15 Apr 2022 17:09:56 +0930</pubDate>
       
-      <guid>http://h.xjj.pub/posts/my-first-post/</guid>
+      <guid>https://koleh-music.github.io/links-biography.io/posts/my-first-post/</guid>
       <description></description>
     </item>
     

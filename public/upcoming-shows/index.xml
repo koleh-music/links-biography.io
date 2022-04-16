@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Upcoming shows on Koleh</title>
-    <link>http://h.xjj.pub/upcoming-shows/</link>
+    <link>https://koleh-music.github.io/links-biography.io/upcoming-shows/</link>
     <description>Recent content in Upcoming shows on Koleh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© XJJ 2022</copyright><atom:link href="http://h.xjj.pub/upcoming-shows/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© XJJ 2022</copyright><atom:link href="https://koleh-music.github.io/links-biography.io/upcoming-shows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Upcoming Shows</title>
-      <link>http://h.xjj.pub/upcoming-shows/upcoming-shows/</link>
+      <link>https://koleh-music.github.io/links-biography.io/upcoming-shows/upcoming-shows/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://h.xjj.pub/upcoming-shows/upcoming-shows/</guid>
+      <guid>https://koleh-music.github.io/links-biography.io/upcoming-shows/upcoming-shows/</guid>
       <description></description>
     </item>
     

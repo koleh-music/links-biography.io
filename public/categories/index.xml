@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Koleh</title>
-    <link>http://h.xjj.pub/categories/</link>
+    <link>https://koleh-music.github.io/links-biography.io/categories/</link>
     <description>Recent content in Categories on Koleh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© XJJ 2022</copyright><atom:link href="http://h.xjj.pub/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© XJJ 2022</copyright><atom:link href="https://koleh-music.github.io/links-biography.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
